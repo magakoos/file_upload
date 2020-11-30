@@ -1,1 +1,3 @@
-# file_upload
+# my_project
+
+Болванка проекта.

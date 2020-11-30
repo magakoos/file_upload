@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+flake8 = "*"
+isort = "*"
+pylint-django = "*"
+nplusone = "*"
+mypy = "*"
+
+[packages]
+django = "==3.0.0"
+drf-yasg = "==1.17.0"
+drf-friendly-errors-2 = "==0.14.3"
+django-redis = "==4.11.0"
+djangorestframework = "==3.11"
+psycopg2 = "*"
+packaging = "*"
+pillow = "*"
+sorl-thumbnail = "*"
+
+[requires]
+python_version = "3.8"
